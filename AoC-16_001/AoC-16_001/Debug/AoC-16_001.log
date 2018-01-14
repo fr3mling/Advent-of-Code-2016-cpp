@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_001\aoc-16_001\source.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_001\aoc-16_001\source.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_001\aoc-16_001\source.cpp(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_001\aoc-16_001\source.cpp(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AoC-16_001.vcxproj -> c:\users\jesper\documents\visual studio 2015\Projects\AoC-16_001\Debug\AoC-16_001.exe

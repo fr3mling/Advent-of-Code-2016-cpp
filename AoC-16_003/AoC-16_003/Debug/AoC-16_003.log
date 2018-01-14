@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_003\aoc-16_003\source.cpp(41): warning C4101: 'sz': unreferenced local variable
+  AoC-16_003.vcxproj -> c:\users\jesper\documents\visual studio 2015\Projects\AoC-16_003\Debug\AoC-16_003.exe

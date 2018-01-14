@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_002\aoc-16_002\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_002\aoc-16_002\source.cpp(9): warning C4101: 'index': unreferenced local variable
+  AoC-16_002.vcxproj -> C:\Users\Jesper\documents\visual studio 2015\Projects\AoC-16_002\Debug\AoC-16_002.exe

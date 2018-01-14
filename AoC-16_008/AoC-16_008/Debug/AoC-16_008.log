@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_008\aoc-16_008\source.cpp(13): warning C4101: 'sz': unreferenced local variable
+c:\users\jesper\documents\visual studio 2015\projects\aoc-16_008\aoc-16_008\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  AoC-16_008.vcxproj -> c:\users\jesper\documents\visual studio 2015\Projects\AoC-16_008\Debug\AoC-16_008.exe
